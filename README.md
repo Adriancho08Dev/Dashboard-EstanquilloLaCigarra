@@ -1,1 +1,3 @@
-## Dashboard [(Estanquillo la cigarra)]
+## Dashboard (Estanquillo la cigarra)
+
+# Reporte de horas de trabajo
