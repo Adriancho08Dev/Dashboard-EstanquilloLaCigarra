@@ -79,5 +79,8 @@
   },
   "overrides": {
     "@svgr/webpack": "^6.5.0"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
